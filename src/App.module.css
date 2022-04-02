@@ -1,0 +1,9 @@
+.userInput {
+	display: flex;
+	flex-direction: column;
+	background-color: white;
+	color: rgb(50, 50, 50);
+	margin: 2rem auto;
+	padding: 1rem;
+	width: 80%;
+}
